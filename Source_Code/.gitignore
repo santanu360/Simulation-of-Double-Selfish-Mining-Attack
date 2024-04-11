@@ -1,0 +1,13 @@
+__pycache__/
+venv/
+output/
+graphs/
+frames/
+!frames/selfish_miner 01.html
+!frames/selfish_miner 02.html
+
+blockchain_simulation.log
+results.json
+results.yaml
+results.pkl
+summary.json

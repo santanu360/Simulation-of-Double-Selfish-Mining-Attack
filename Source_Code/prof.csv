@@ -1,0 +1,445 @@
+ncalls,tottime,percall,cumtime,percall,filename:lineno(function)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/threading.py:295(wait)
+1,0.051,0.051,0.563,0.563,/mnt/AB/IITB/CS765/IITB_CS765_A01/simulation.py:32(schedule_transactions)
+8304,0.016,0.000,0.076,0.000,/usr/lib/python3.11/queue.py:154(get)
+4,0.000,0.000,0.004,0.001,/usr/lib/python3.11/enum.py:893(_convert_)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/random.py:128(seed)
+10,0.000,0.000,0.000,0.000,/usr/lib/python3.11/random.py:284(randrange)
+12,0.000,0.000,0.000,0.000,/usr/lib/python3.11/random.py:385(sample)
+8304,0.005,0.000,0.005,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/simulation.py:180(block_create_hook)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/random.py:480(choices)
+4,0.000,0.000,0.000,0.000,/usr/lib/python3.11/enum.py:497(__new__)
+2,0.000,0.000,0.001,0.001,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:1265(close)
+4,0.001,0.000,0.002,0.001,/usr/lib/python3.11/enum.py:1654(convert_class)
+1,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/_monitor.py:30(__init__)
+8,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:186(__format__)
+1,0.000,0.000,1.098,1.098,/mnt/AB/IITB/CS765/IITB_CS765_A01/simulation.py:210(main)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/threading.py:945(start)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/threading.py:856(__init__)
+70,0.000,0.000,0.001,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:1198(update)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/weakref.py:289(update)
+8,0.000,0.000,0.002,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:464(format_meter)
+2,0.000,0.000,0.014,0.007,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:663(__new__)
+2,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:686(_decr_instances)
+2,0.000,0.000,0.003,0.001,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:952(__init__)
+8,0.000,0.000,0.003,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:1464(display)
+8,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:1446(format_dict)
+1,0.000,0.000,0.001,0.001,/mnt/AB/IITB/CS765/IITB_CS765_A01/network.py:39(create_network)
+2,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:213(__init__)
+8,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:167(colour)
+8,0.000,0.000,0.001,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:386(disp_trim)
+24,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:194(inner)
+23254,0.075,0.000,0.482,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/DiscreteEventSim.py:34(__init__)
+23253,0.045,0.000,0.142,0.000,/usr/lib/python3.11/queue.py:122(put)
+8304,0.020,0.000,0.415,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/DiscreteEventSim.py:113(__run_event)
+4090,0.020,0.000,0.157,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Link.py:21(__link_delay_sim)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/process.py:71(BaseProcess)
+1,0.000,0.000,0.007,0.007,/usr/lib/python3.11/multiprocessing/reduction.py:1(<module>)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:30(BaseContext)
+1,0.000,0.000,0.008,0.008,/usr/lib/python3.11/multiprocessing/context.py:1(<module>)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/process.py:1(<module>)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/synchronize.py:50(__init__)
+1,0.000,0.000,0.003,0.003,/usr/lib/python3.11/multiprocessing/synchronize.py:1(<module>)
+1,0.000,0.000,0.006,0.006,/usr/lib/python3.11/socket.py:1(<module>)
+1,0.000,0.000,0.001,0.001,/usr/lib/python3.11/multiprocessing/util.py:1(<module>)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/reduction.py:251(AbstractReducer)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/socket.py:663(SocketIO)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/synchronize.py:121(_make_name)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/synchronize.py:193(__init__)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/synchronize.py:328(Event)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/util.py:48(debug)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/util.py:182(Finalize)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/synchronize.py:217(Condition)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/util.py:108(_platform_supports_abstract_sockets)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/synchronize.py:370(Barrier)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/util.py:368(ForkAwareThreadLock)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/util.py:385(ForkAwareLocal)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:237(get_context)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/synchronize.py:46(SemLock)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/util.py:171(register_after_fork)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/process.py:399(__init__)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/__init__.py:22(<listcomp>)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:203(reducer)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:220(Process)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:230(DefaultContext)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:283(SpawnProcess)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/process.py:364(_ParentProcess)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/synchronize.py:90(_make_methods)
+38,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/__init__.py:23(<genexpr>)
+1,0.000,0.000,0.004,0.004,/usr/lib/python3.11/multiprocessing/context.py:70(RLock)
+407,0.000,0.000,0.000,0.000,/usr/lib/python3.11/socket.py:78(<lambda>)
+408,0.000,0.000,0.000,0.000,/usr/lib/python3.11/socket.py:83(<lambda>)
+409,0.000,0.000,0.000,0.000,/usr/lib/python3.11/socket.py:88(<lambda>)
+410,0.000,0.000,0.000,0.000,/usr/lib/python3.11/socket.py:93(<lambda>)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/socket.py:214(socket)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:14(ProcessError)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:17(BufferTooShort)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:20(TimeoutError)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:23(AuthenticationError)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:197(get_start_method)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:302(ForkContext)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:306(SpawnContext)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/process.py:37(current_process)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/process.py:349(AuthenticationString)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/reduction.py:211(_C)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/socket.py:211(_GiveupOnSendfile)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:233(__init__)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:276(ForkProcess)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:295(ForkServerProcess)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/context.py:310(ForkServerContext)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/process.py:397(_MainProcess)
+5,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/reduction.py:43(register)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/synchronize.py:130(Semaphore)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/synchronize.py:149(BoundedSemaphore)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/synchronize.py:166(Lock)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/synchronize.py:191(RLock)
+1,0.000,0.000,0.009,0.009,/usr/lib/python3.11/multiprocessing/__init__.py:1(<module>)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/multiprocessing/reduction.py:33(ForkingPickler)
+14,0.000,0.000,0.000,0.000,{method 'acquire' of '_multiprocessing.SemLock' objects}
+14,0.000,0.000,0.000,0.000,{method 'release' of '_multiprocessing.SemLock' objects}
+90,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Link.py:59(get_link)
+2,0.000,0.000,0.000,0.000,{built-in method fcntl.ioctl}
+23253,0.021,0.000,0.035,0.000,{built-in method _heapq.heappush}
+8304,0.021,0.000,0.040,0.000,{built-in method _heapq.heappop}
+3464,0.000,0.000,0.000,0.000,{built-in method unicodedata.east_asian_width}
+5,0.000,0.000,0.000,0.000,{built-in method now}
+3,0.000,0.000,0.000,0.000,{built-in method fromtimestamp}
+2,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/network.py:7(is_connected)
+2,0.000,0.000,0.001,0.001,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:333(_screen_shape_linux)
+1,0.012,0.012,0.515,0.515,/mnt/AB/IITB/CS765/IITB_CS765_A01/DiscreteEventSim.py:124(__run_loop)
+4094,0.013,0.000,0.132,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Link.py:30(transmit)
+10,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Block.py:154(__init_genesis_block)
+8304,0.007,0.000,0.012,0.000,/usr/lib/python3.11/queue.py:97(empty)
+15001,0.013,0.000,0.022,0.000,/usr/lib/python3.11/queue.py:92(qsize)
+4090,0.014,0.000,0.046,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/DiscreteEventSim.py:75(description)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/tempfile.py:153(__next__)
+8,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:110(__enter__)
+8,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:113(__exit__)
+6,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:226(__init__)
+2,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:156(__init__)
+8,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:112(__format__)
+2,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:370(_term_move_up)
+4,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:222(__eq__)
+4,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:187(disable_on_exception)
+4,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:139(__getattr__)
+8,0.000,0.000,0.001,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:457(print_status)
+16,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:273(_is_ascii)
+4074,0.007,0.000,0.131,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Peer.py:118(receive_msg)
+45,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Link.py:46(__init__)
+694,0.000,0.000,0.001,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Block.py:291(add_transaction)
+4090,0.004,0.000,0.016,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Link.py:17(__get_delay)
+70,0.000,0.000,0.003,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Peer.py:100(__create_txn)
+10,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Peer.py:40(__calculate_cpu_power)
+4094,0.003,0.000,0.135,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Peer.py:84(__forward_msg_to_peer)
+70,0.000,0.000,0.016,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Peer.py:142(broadcast_txn)
+23253,0.010,0.000,0.163,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/DiscreteEventSim.py:94(enqueue)
+8304,0.008,0.000,0.031,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/DiscreteEventSim.py:106(__execute_run_hooks)
+1,0.000,0.000,0.515,0.515,/mnt/AB/IITB/CS765/IITB_CS765_A01/DiscreteEventSim.py:130(run)
+47874,0.011,0.000,0.011,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Peer.py:81(__repr__)
+4237,0.001,0.000,0.001,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Peer.py:134(<lambda>)
+4768,0.001,0.000,0.001,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Transaction.py:20(id)
+12414,0.003,0.000,0.003,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Transaction.py:37(__repr__)
+193790,0.034,0.000,0.034,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/DiscreteEventSim.py:64(__lt__)
+23334,0.030,0.000,0.372,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/utils.py:6(generate_random_id)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/tempfile.py:142(rng)
+23253,0.012,0.000,0.153,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/DiscreteEventSim.py:89(__enqueue)
+163305,0.058,0.000,0.310,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/utils.py:12(<genexpr>)
+4090,0.003,0.000,0.013,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/DiscreteEventSim.py:67(created_at_formatted)
+4090,0.002,0.000,0.008,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/DiscreteEventSim.py:71(actionable_at_formatted)
+2,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/DiscreteEventSim.py:100(reg_run_hooks)
+90,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Link.py:11(__init__)
+1,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/network.py:47(<listcomp>)
+10,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Peer.py:49(init_blockchain)
+90,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Peer.py:55(connect)
+774,0.001,0.000,0.001,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Peer.py:96(connected_peers)
+70,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Transaction.py:34(description)
+19090,0.017,0.000,0.056,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/utils.py:17(expon_distribution)
+4160,0.002,0.000,0.006,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/DiscreteEventSim.py:29(__str__)
+31609,0.010,0.000,0.014,0.000,/usr/lib/python3.11/queue.py:232(_qsize)
+23253,0.010,0.000,0.044,0.000,/usr/lib/python3.11/queue.py:235(_put)
+8304,0.002,0.000,0.043,0.000,/usr/lib/python3.11/queue.py:238(_get)
+6,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:152(wrapper_setattr)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/threading.py:1453(current_thread)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/weakref.py:164(__setitem__)
+2,0.000,0.000,0.000,0.000,/usr/lib/python3.11/_weakrefset.py:53(_commit_removals)
+31558,0.011,0.000,0.014,0.000,/usr/lib/python3.11/threading.py:274(__exit__)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/threading.py:811(_newname)
+26,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:231(__call__)
+4,0.000,0.000,0.000,0.000,/usr/lib/python3.11/logging/__init__.py:237(_releaseLock)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/threading.py:1221(daemon)
+3,0.000,0.000,0.000,0.000,/usr/lib/python3.11/_weakrefset.py:85(add)
+2,0.000,0.000,0.000,0.000,/usr/lib/python3.11/_weakrefset.py:110(remove)
+1,0.000,0.000,0.014,0.014,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:116(create_mp_lock)
+13,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:400(format_interval)
+2,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:1301(<lambda>)
+14,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:102(acquire)
+4,0.000,0.000,0.000,0.000,/usr/lib/python3.11/logging/__init__.py:1319(disable)
+10,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Peer.py:20(__init__)
+8250,0.004,0.000,0.006,0.000,/usr/lib/python3.11/logging/__init__.py:1467(debug)
+4240,0.002,0.000,0.003,0.000,/usr/lib/python3.11/logging/__init__.py:1479(info)
+8,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:451(fp_write)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/weakref.py:104(__init__)
+2,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:1441(moveto)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/weakref.py:347(__new__)
+1,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:708(<lambda>)
+4,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:1153(_comparable)
+70,0.000,0.000,0.016,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Peer.py:136(broadcast_msg)
+3488,0.001,0.000,0.001,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:375(<genexpr>)
+2,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:438(status_printer)
+10,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Block.py:104(__init__)
+8,0.000,0.000,0.002,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:1150(__str__)
+4,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:1157(__hash__)
+8,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:108(__init__)
+2,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:125(__eq__)
+1,0.000,0.000,0.014,0.014,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:90(__init__)
+2,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:252(_is_utf)
+70,0.000,0.000,0.002,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Transaction.py:10(__init__)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/weakref.py:352(__init__)
+14,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:106(release)
+2,0.000,0.000,0.014,0.007,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:760(get_lock)
+4,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:1286(fp_write)
+24,0.000,0.000,0.002,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:378(disp_len)
+24,0.000,0.000,0.002,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:374(_text_width)
+2,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:282(_screen_shape_wrapper)
+2,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/utils.py:266(_supports_unicode)
+38253,0.021,0.000,0.033,0.000,/usr/lib/python3.11/inspect.py:1749(currentframe)
+8,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:153(__init__)
+6,0.000,0.000,0.002,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:1325(refresh)
+1,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:98(<listcomp>)
+8,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/std.py:163(colour)
+8304,0.003,0.000,0.010,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/simulation.py:229(<lambda>)
+61,0.000,0.000,0.000,0.000,/usr/lib/python3.11/enum.py:916(<lambda>)
+2,0.000,0.000,0.000,0.000,/usr/lib/python3.11/enum.py:1758(<listcomp>)
+4,0.000,0.000,0.000,0.000,/usr/lib/python3.11/enum.py:1638(_simple_enum)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/_weakrefset.py:37(__init__)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/threading.py:1324(_make_invoke_excepthook)
+8304,0.005,0.000,0.006,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/simulation.py:164(update_progressbars)
+61,0.000,0.000,0.000,0.000,/usr/lib/python3.11/enum.py:79(_is_private)
+12490,0.003,0.000,0.004,0.000,/usr/lib/python3.11/logging/__init__.py:1734(isEnabledFor)
+4160,0.001,0.000,0.001,0.000,/usr/lib/python3.11/enum.py:1256(value)
+4,0.000,0.000,0.000,0.000,/usr/lib/python3.11/logging/__init__.py:228(_acquireLock)
+2,0.000,0.000,0.000,0.000,/usr/lib/python3.11/threading.py:562(__init__)
+2,0.000,0.000,0.000,0.000,/usr/lib/python3.11/_weakrefset.py:21(__enter__)
+3,0.000,0.000,0.000,0.000,/usr/lib/python3.11/threading.py:575(is_set)
+1,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/tqdm/_monitor.py:94(report)
+31558,0.011,0.000,0.019,0.000,/usr/lib/python3.11/threading.py:271(__enter__)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/threading.py:280(_release_save)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/threading.py:283(_acquire_restore)
+2,0.000,0.000,0.000,0.000,/usr/lib/python3.11/_weakrefset.py:17(__init__)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/threading.py:1206(daemon)
+2,0.000,0.000,0.000,0.000,/usr/lib/python3.11/functools.py:393(__get__)
+4160,0.002,0.000,0.003,0.000,/usr/lib/python3.11/enum.py:193(__get__)
+2,0.000,0.000,0.000,0.000,/usr/lib/python3.11/threading.py:243(__init__)
+31557,0.015,0.000,0.034,0.000,/usr/lib/python3.11/threading.py:366(notify)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/random.py:119(__init__)
+8304,0.006,0.000,0.014,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/simulation.py:201(simulation_hooks)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/random.py:493(<listcomp>)
+115,0.000,0.000,0.000,0.000,/usr/lib/python3.11/random.py:520(uniform)
+5,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/_distutils_hack/__init__.py:96(<lambda>)
+60,0.000,0.000,0.000,0.000,/usr/lib/python3.11/enum.py:1149(__init__)
+70,0.000,0.000,0.005,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Peer.py:106(generate_random_txn)
+75,0.000,0.000,0.000,0.000,/usr/lib/python3.11/enum.py:826(__setattr__)
+61,0.000,0.000,0.000,0.000,/usr/lib/python3.11/enum.py:38(_is_descriptor)
+8304,0.003,0.000,0.003,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/simulation.py:196(simulation_terminate_hook)
+19090,0.014,0.000,0.022,0.000,/usr/lib/python3.11/random.py:613(expovariate)
+4160,0.005,0.000,0.011,0.000,/usr/lib/python3.11/enum.py:1228(__format__)
+10,0.000,0.000,0.000,0.000,/usr/lib/python3.11/random.py:358(randint)
+21,0.000,0.000,0.000,0.000,/usr/lib/python3.11/enum.py:93(_is_single_bit)
+61,0.000,0.000,0.000,0.000,/usr/lib/python3.11/enum.py:229(__set_name__)
+23,0.000,0.000,0.000,0.000,/usr/lib/python3.11/enum.py:796(<genexpr>)
+2,0.000,0.000,0.000,0.000,/usr/lib/python3.11/enum.py:792(__iter__)
+4,0.000,0.000,0.000,0.000,/usr/lib/python3.11/enum.py:804(__members__)
+4,0.001,0.000,0.002,0.000,/usr/lib/python3.11/enum.py:910(<listcomp>)
+4,0.000,0.000,0.000,0.000,/usr/lib/python3.11/enum.py:920(<dictcomp>)
+155116,0.104,0.000,0.139,0.000,/usr/lib/python3.11/random.py:235(_randbelow_with_getrandbits)
+694,0.002,0.000,0.137,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/Peer.py:87(__forward_msg_to_peers)
+1,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/simulation.py:21(log_peers)
+1,0.000,0.000,0.017,0.017,/mnt/AB/IITB/CS765/IITB_CS765_A01/simulation.py:150(setup_progressbars)
+155042,0.117,0.000,0.281,0.000,/usr/lib/python3.11/random.py:367(choice)
+61,0.000,0.000,0.000,0.000,/usr/lib/python3.11/enum.py:59(_is_sunder)
+69,0.000,0.000,0.000,0.000,/usr/lib/python3.11/enum.py:48(_is_dunder)
+3,0.000,0.000,0.000,0.000,/usr/lib/python3.11/_weakrefset.py:63(__iter__)
+1,0.000,0.000,0.000,0.000,/usr/lib/python3.11/threading.py:611(wait)
+31558,0.011,0.000,0.020,0.000,/usr/lib/python3.11/threading.py:286(_is_owned)
+10,0.000,0.000,0.000,0.000,/mnt/AB/IITB/CS765/IITB_CS765_A01/venv/lib/python3.11/site-packages/_distutils_hack/__init__.py:89(find_spec)
+61,0.000,0.000,0.000,0.000,/usr/lib/python3.11/types.py:164(__init__)
+2,0.000,0.000,0.000,0.000,/usr/lib/python3.11/_weakrefset.py:27(__exit__)
+30,0.000,0.000,0.000,0.000,{built-in method _operator.index}
+2,0.000,0.000,0.000,0.000,{built-in method _abc._abc_init}
+12,0.000,0.000,0.000,0.000,{built-in method _abc._abc_instancecheck}
+3/1,0.000,0.000,0.000,0.000,{built-in method _abc._abc_subclasscheck}
+4,0.000,0.000,0.000,0.000,{built-in method _weakref.proxy}
+30,0.000,0.000,0.000,0.000,{built-in method time.time}
+31561,0.008,0.000,0.008,0.000,{method 'acquire' of '_thread.lock' objects}
+1,0.000,0.000,0.000,0.000,{method 'release' of '_thread.lock' objects}
+31558,0.007,0.000,0.007,0.000,{method '__enter__' of '_thread.lock' objects}
+54903,0.006,0.000,0.006,0.000,{method '__exit__' of '_thread.lock' objects}
+19,0.000,0.000,0.000,0.000,{method 'acquire' of '_thread.RLock' objects}
+19,0.000,0.000,0.000,0.000,{method 'release' of '_thread.RLock' objects}
+1,0.000,0.000,0.000,0.000,{method '__exit__' of '_thread.RLock' objects}
+1,0.000,0.000,0.000,0.000,{built-in method _thread.start_new_thread}
+23,0.000,0.000,0.000,0.000,{built-in method _thread.allocate_lock}
+41,0.000,0.000,0.000,0.000,{built-in method _thread.get_ident}
+14,0.000,0.000,0.000,0.000,{method 'write' of '_io.TextIOWrapper' objects}
+14,0.000,0.000,0.000,0.000,{method 'flush' of '_io.TextIOWrapper' objects}
+14,0.000,0.000,0.000,0.000,{method 'read' of '_io.BufferedReader' objects}
+14,0.000,0.000,0.000,0.000,{method '__exit__' of '_io._IOBase' objects}
+14,0.000,0.000,0.000,0.000,{built-in method io.open_code}
+40,0.001,0.000,0.001,0.000,{built-in method posix.stat}
+1,0.000,0.000,0.000,0.000,{built-in method posix.getcwd}
+1,0.000,0.000,0.000,0.000,{built-in method posix.listdir}
+1,0.000,0.000,0.000,0.000,{built-in method posix.getpid}
+1,0.000,0.000,0.000,0.000,{built-in method posix.sysconf}
+1,0.000,0.000,0.000,0.000,{built-in method posix._path_normpath}
+1,0.000,0.000,0.000,0.000,{built-in method posix.urandom}
+27,0.000,0.000,0.000,0.000,{built-in method posix.fspath}
+2,0.000,0.000,0.000,0.000,{built-in method atexit.register}
+38253,0.005,0.000,0.005,0.000,{built-in method sys._getframe}
+7,0.001,0.000,0.001,0.000,{built-in method marshal.loads}
+70,0.000,0.000,0.000,0.000,{built-in method _imp.acquire_lock}
+70,0.000,0.000,0.000,0.000,{built-in method _imp.release_lock}
+10,0.000,0.000,0.000,0.000,{built-in method _imp.find_frozen}
+10,0.000,0.000,0.000,0.000,{built-in method _imp.is_builtin}
+3,0.001,0.000,0.001,0.000,{built-in method _imp.create_dynamic}
+3,0.000,0.000,0.000,0.000,{built-in method _imp.exec_dynamic}
+7,0.000,0.000,0.000,0.000,{built-in method _imp._fix_co_filename}
+7,0.000,0.000,0.000,0.000,{built-in method _imp.source_hash}
+34,0.001,0.000,0.001,0.000,{built-in method builtins.__build_class__}
+5/2,0.000,0.000,0.010,0.005,{built-in method builtins.__import__}
+12,0.000,0.000,0.000,0.000,{built-in method builtins.abs}
+2,0.000,0.000,0.000,0.000,{built-in method builtins.all}
+2,0.000,0.000,0.000,0.000,{built-in method builtins.dir}
+34,0.000,0.000,0.000,0.000,{built-in method builtins.divmod}
+7/2,0.000,0.000,0.012,0.006,{built-in method builtins.exec}
+8180,0.009,0.000,0.009,0.000,{built-in method builtins.format}
+255,0.000,0.000,0.000,0.000,{built-in method builtins.getattr}
+2,0.000,0.000,0.000,0.000,{built-in method builtins.globals}
+38518,0.007,0.000,0.007,0.000,{built-in method builtins.hasattr}
+5,0.000,0.000,0.000,0.000,{built-in method builtins.id}
+9015,0.001,0.000,0.001,0.000,{built-in method builtins.isinstance}
+8,0.000,0.000,0.000,0.000,{built-in method builtins.issubclass}
+342048,0.030,0.000,0.030,0.000,{built-in method builtins.len}
+5,0.000,0.000,0.000,0.000,{built-in method builtins.locals}
+30,0.000,0.000,0.000,0.000,{built-in method builtins.max}
+2,0.000,0.000,0.000,0.000,{built-in method builtins.next}
+168,0.000,0.000,0.000,0.000,{built-in method builtins.ord}
+5,0.000,0.000,0.000,0.000,{built-in method builtins.print}
+31382,0.027,0.000,0.027,0.000,{built-in method builtins.round}
+70,0.000,0.000,0.000,0.000,{built-in method builtins.setattr}
+2,0.000,0.000,0.000,0.000,{built-in method builtins.sorted}
+24,0.000,0.000,0.002,0.000,{built-in method builtins.sum}
+2,0.000,0.000,0.000,0.000,{method 'encode' of 'str' objects}
+23435,0.031,0.000,0.342,0.000,{method 'join' of 'str' objects}
+1,0.000,0.000,0.000,0.000,{method 'lower' of 'str' objects}
+14,0.000,0.000,0.000,0.000,{method 'rfind' of 'str' objects}
+186,0.000,0.000,0.000,0.000,{method 'rstrip' of 'str' objects}
+64,0.000,0.000,0.000,0.000,{method 'rpartition' of 'str' objects}
+1520,0.000,0.000,0.000,0.000,{method 'startswith' of 'str' objects}
+13,0.000,0.000,0.000,0.000,{method 'endswith' of 'str' objects}
+1634,0.000,0.000,0.000,0.000,{method 'isupper' of 'str' objects}
+26,0.000,0.000,0.000,0.000,{method 'format' of 'str' objects}
+4160,0.001,0.000,0.001,0.000,{method '__format__' of 'str' objects}
+69,0.000,0.000,0.000,0.000,{built-in method __new__ of type object at 0x7f2bcf156d40}
+155118,0.013,0.000,0.013,0.000,{method 'bit_length' of 'int' objects}
+7,0.000,0.000,0.000,0.000,{built-in method from_bytes}
+6,0.000,0.000,0.000,0.000,{method 'setter' of 'property' objects}
+1,0.000,0.000,0.000,0.000,<frozen os>:44(_get_exports_list)
+1,0.000,0.000,0.000,0.000,<frozen os>:48(<listcomp>)
+1,0.000,0.000,0.000,0.000,<frozen posixpath>:397(abspath)
+1,0.000,0.000,0.000,0.000,<frozen posixpath>:389(normpath)
+1,0.000,0.000,0.000,0.000,<frozen posixpath>:60(isabs)
+1,0.000,0.000,0.000,0.000,<frozen posixpath>:41(_get_sep)
+3,0.000,0.000,0.000,0.000,<frozen _collections_abc>:315(__subclasshook__)
+3/1,0.000,0.000,0.000,0.000,<frozen abc>:121(__subclasscheck__)
+12,0.000,0.000,0.000,0.000,<frozen abc>:117(__instancecheck__)
+2,0.000,0.000,0.000,0.000,<frozen abc>:105(__new__)
+1,0.000,0.000,0.000,0.000,<frozen zipimport>:64(__init__)
+1,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:1696(path_hook_for_FileFinder)
+1,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:1655(_fill_cache)
+18,0.000,0.000,0.002,0.000,<frozen importlib._bootstrap_external>:1604(find_spec)
+10,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:1599(_get_spec)
+1,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:1559(__init__)
+8,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:1565(<genexpr>)
+10,0.000,0.000,0.002,0.000,<frozen importlib._bootstrap_external>:1496(find_spec)
+10,0.000,0.000,0.002,0.000,<frozen importlib._bootstrap_external>:1464(_get_spec)
+23,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:1421(_path_importer_cache)
+1,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:1408(_path_hooks)
+3,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:1239(exec_module)
+3,0.000,0.000,0.001,0.000,<frozen importlib._bootstrap_external>:1231(create_module)
+3,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:1220(__init__)
+7,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:1146(path_stats)
+14,0.000,0.000,0.001,0.000,<frozen importlib._bootstrap_external>:1127(get_data)
+7,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:1122(get_filename)
+7,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:1097(__init__)
+7,0.000,0.000,0.002,0.000,<frozen importlib._bootstrap_external>:1007(get_code)
+7/2,0.000,0.000,0.012,0.006,<frozen importlib._bootstrap_external>:934(exec_module)
+7,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:931(create_module)
+10,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:778(spec_from_file_location)
+7,0.000,0.000,0.001,0.000,<frozen importlib._bootstrap_external>:727(_compile_bytecode)
+7,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:703(_validate_hash_pyc)
+7,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:642(_classify_pyc)
+7,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:599(_check_name_wrapper)
+10,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:567(_get_cached)
+14,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:437(cache_from_source)
+11,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:180(_path_isabs)
+1,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:164(_path_isdir)
+13,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:159(_path_isfile)
+14,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:150(_path_is_mode_type)
+40,0.000,0.000,0.001,0.000,<frozen importlib._bootstrap_external>:140(_path_stat)
+14,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:132(_path_split)
+28,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:134(<genexpr>)
+86,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:126(_path_join)
+86,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:128(<listcomp>)
+7,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:84(_unpack_uint32)
+18,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap_external>:71(_relax_case)
+9/5,0.000,0.000,0.010,0.002,<frozen importlib._bootstrap>:1207(_handle_fromlist)
+10/3,0.000,0.000,0.014,0.005,<frozen importlib._bootstrap>:1165(_find_and_load)
+10/3,0.000,0.000,0.014,0.005,<frozen importlib._bootstrap>:1120(_find_and_load_unlocked)
+10,0.000,0.000,0.002,0.000,<frozen importlib._bootstrap>:1054(_find_spec)
+40,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:1030(__exit__)
+40,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:1026(__enter__)
+10,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:920(find_spec)
+10,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:748(find_spec)
+10/3,0.000,0.000,0.013,0.004,<frozen importlib._bootstrap>:666(_load_unlocked)
+10,0.000,0.000,0.001,0.000,<frozen importlib._bootstrap>:566(module_from_spec)
+10,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:493(_init_module_attrs)
+10,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:413(has_location)
+19,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:405(parent)
+17,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:392(cached)
+10,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:357(__init__)
+97,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:244(_verbose_message)
+28/7,0.000,0.000,0.012,0.002,<frozen importlib._bootstrap>:233(_call_with_frames_removed)
+10,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:216(_lock_unlock_module)
+20,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:179(_get_module_lock)
+10,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:198(cb)
+10,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:173(__exit__)
+10,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:169(__enter__)
+10,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:165(__init__)
+20,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:125(release)
+20,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:100(acquire)
+10,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:71(__init__)
+7,0.000,0.000,0.000,0.000,<frozen importlib._bootstrap>:48(_new_module)
+24,0.000,0.000,0.000,0.000,{method 'sub' of 're.Pattern' objects}
+1,0.000,0.000,0.000,0.000,{method 'append' of 'collections.deque' objects}
+5,0.000,0.000,0.000,0.000,{method 'add' of 'set' objects}
+4,0.000,0.000,0.000,0.000,{method 'remove' of 'set' objects}
+33,0.000,0.000,0.000,0.000,{method 'get' of 'dict' objects}
+10,0.000,0.000,0.000,0.000,{method 'pop' of 'dict' objects}
+850,0.000,0.000,0.000,0.000,{method 'keys' of 'dict' objects}
+11,0.000,0.000,0.000,0.000,{method 'items' of 'dict' objects}
+113,0.000,0.000,0.000,0.000,{method 'update' of 'dict' objects}
+1601,0.000,0.000,0.000,0.000,{method 'append' of 'list' objects}
+4,0.000,0.000,0.000,0.000,{method 'extend' of 'list' objects}
+83,0.000,0.000,0.000,0.000,{method 'pop' of 'list' objects}
+4,0.000,0.000,0.000,0.000,{method 'sort' of 'list' objects}
+83,0.000,0.000,0.000,0.000,{method 'get' of 'mappingproxy' objects}
+4,0.000,0.000,0.000,0.000,{method 'items' of 'mappingproxy' objects}
+19213,0.003,0.000,0.003,0.000,{method 'random' of '_random.Random' objects}
+1,0.000,0.000,0.000,0.000,{function Random.seed at 0x7f2bce4519e0}
+272708,0.022,0.000,0.022,0.000,{method 'getrandbits' of '_random.Random' objects}
+6,0.000,0.000,0.000,0.000,{built-in method math.ceil}
+8,0.000,0.000,0.000,0.000,{built-in method math.floor}
+19096,0.005,0.000,0.005,0.000,{built-in method math.log}
+1,0.000,0.000,0.000,0.000,{method 'disable' of '_lsprof.Profiler' objects}
+
+
